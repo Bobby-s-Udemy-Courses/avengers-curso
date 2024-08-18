@@ -1,4 +1,5 @@
 # Villanos
 
 * Dr. Doom
-* Red 
+* Red Skull
+* Dr. Herrera
